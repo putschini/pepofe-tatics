@@ -1,0 +1,4 @@
+package com;
+public enum AcaoEnum {
+	MOVIMENTO, ATAQUE, ATAQUECONTRAATAQUE, PASSARAVEZ
+}
